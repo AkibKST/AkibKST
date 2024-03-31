@@ -2,9 +2,8 @@
 #### I am a MERN DEVELOPER.
 ![I am a MERN DEVELOPER.](https://www.canva.com/design/DAF7Y-iF80M/DXXQmfat8yB8yRy74uE9YA/view?utm_content=DAF7Y-iF80M&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
-
-Skills: NODE JS / REACT / JS / HTML / CSS
+I made this project just for fun.
+Skills: MONGODB / EXPESS JS / NODE JS / REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Javascript 
@@ -17,15 +16,15 @@ Skills: NODE JS / REACT / JS / HTML / CSS
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/AkibKST)](https://github.com/ryo-ma/github-profile-trophy)
+(https://github-profile-trophy.vercel.app/?username=https://github.com/AkibKST)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/AkibKST)](https://github.com/anuraghazra/github-readme-stats)
+(https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/AkibKST)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/AkibKST&show_icons=true&count_private=true)  
+(https://github-readme-stats.vercel.app/api?username=https://github.com/AkibKST&show_icons=true&count_private=true)  
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/https://github.com/AkibKST/contributions?format=svg&private=true)  
+(https://api.vaunt.dev/v1/github/entities/https://github.com/AkibKST/contributions?format=svg&private=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/https://github.com/AkibKST)  
+(https://metrics.lecoq.io/https://github.com/AkibKST)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=https://github.com/AkibKST)  
+(https://streak-stats.demolab.com/?user=https://github.com/AkibKST)  
 
