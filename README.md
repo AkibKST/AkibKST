@@ -21,7 +21,7 @@
  </div>
  
 <div align="center"> 
-  <a href="akibkst22@gmail.com">
+  <a href="mailto:akibkst22@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/akibul-islam-b0359a238/" target="_blank">
