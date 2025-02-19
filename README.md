@@ -4,19 +4,19 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Akibul+Islam!;" />
 </h1>
 
-<h3 align="center">A passionate web developer from Bangladesh </h3>
+<h3 align="center">A passionate **Web Developer**  </h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+ 🔭 I’m currently working on **Deep of Development Bugs**
  
- 🌱 I’m currently learning **Docker, Typescript, AWS**
+ 🌱 I’m currently learning **Docker, Typescript, AWS, Next.js**
 
 💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/AkibKST/AkibKST/issues)**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Fun fact ** Playing Badminton & Fixing BUGs **
 
  </div>
  
