@@ -12,9 +12,9 @@
  
  🔭 I’m currently working on **Deep of Development Bugs**
  
- 🌱 I’m currently learning **Docker, Typescript, AWS, Next.js**
+ 🌱 I’m currently learning **Docker, AWS, Next.js**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/AkibKST/AkibKST/issues)**
+💬 Ask me about **Express.js, React, Typescript... or anything <a href="mailto:akibkst22@gmail.com">[here]</a> **
 
 ⚡ Fun fact ** Playing Badminton & Fixing BUGs **
 
