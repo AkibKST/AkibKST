@@ -41,6 +41,14 @@
     <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,typescript,redux,postgresql,prisma,nextjs,redis,npm,bun,postman" /><br>
 </div>
 
+<h2 align="center">📈 Current Stats</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akibkst&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="akibkst's Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akibkst&theme=radical&hide_border=true" alt="kazirauf's Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akibkst&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="akibkst's Top Languages" />
+</div>
+
 <br/>
 <hr/>
 
