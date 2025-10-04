@@ -37,7 +37,8 @@
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
-<hr/>
+<br/>
+ <hr/>
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=javascript,react,bootstrap,mui,html,css,vscode,vite,figma,tailwind,git,github" />
@@ -49,7 +50,8 @@
 
 <h2 align="center">📈 Current Stats</h2>
 
-<hr/>
+<br/>
+ <hr/>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=akibkst&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="akibkst's Stats" />
