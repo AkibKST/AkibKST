@@ -45,11 +45,11 @@
 </div>
 
 <br/>
+ <hr/>
 
 <h2 align="center">📈 Current Stats</h2>
 
 <br/>
- <hr/>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=akibkst&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="akibkst's Stats" />
