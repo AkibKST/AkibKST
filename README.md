@@ -36,6 +36,7 @@
  <hr/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=javascript,react,bootstrap,mui,html,css,vscode,vite,figma,tailwind,git,github" />
@@ -46,6 +47,7 @@
  <hr/>
 
 <h2 align="center">📈 Current Stats</h2>
+
 <br/>
 
 <div align="center">
