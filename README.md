@@ -41,6 +41,7 @@
     <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,typescript,redux,postgresql,prisma,nextjs,redis,npm,bun,postman" /><br>
 </div>
 
+<br/>
  <hr/>
 
 <h2 align="center">📈 Current Stats</h2>
