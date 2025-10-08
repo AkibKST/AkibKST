@@ -1,7 +1,7 @@
 
 
 <h1 align="center">
-I'm $${\color{#58a6ff}Akibul\space Islam}$$
+Hi 👋, I'm Akibul Islam
 </h1>
 
 <h6 align="center">A passionate</h6>
