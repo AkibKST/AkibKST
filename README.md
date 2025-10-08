@@ -4,7 +4,10 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Akibul+Islam!;" />
 </h1>
 
-<h3 align="center">A passionate **Web Developer**  </h3>
+<h6 align="center">A passionate</h6>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=**Software Developer**!+;+**Full Stack Developer**!;+**Backend & Database Engineer**!;+**MERN Stack Developer**!;" />
+</h1>
 
 <br/>
 
