@@ -1,7 +1,7 @@
 
 <h6 align="center">Hi+There!👋</h6>
 <h1 align="center">
-   I'm Akibul Islam
+   <b>I'm Akibul Islam</b>
 </h1>
 
 <h6 align="center">A passionate</h6>
