@@ -1,7 +1,7 @@
 
 
 <h1 align="center">
-<b>$${\color{#58a6ff}Akibul\space \color{lightgreen}Islam}$$</b>
+$$\bold {\color{#58a6ff}Akibul\space \color{lightgreen}Islam}$$
 </h1>
 
 <h6 align="center">A passionate</h6>
