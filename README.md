@@ -2,7 +2,7 @@
 <h3 align="center">Hi 👋, I'm </h3>
 
 <h1 align="center">
- <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=39&center=true&vCenter=true&width=600&height=70&duration=0&lines=Akibul+Islam;" />
+ <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=39&center=true&vCenter=true&width=600&height=70&duration=10&lines=Akibul+Islam;" />
 </h1>
 
 <h6 align="center">A passionate</h6>
