@@ -1,7 +1,7 @@
 
 
 <h1 align="center">
-Hi 👋, I'm Akibul Islam
+Hi 👋, I'm <span> <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=39&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Akibul Islam;" /></span>
 </h1>
 
 <h6 align="center">A passionate</h6>
