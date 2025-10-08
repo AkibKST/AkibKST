@@ -1,7 +1,7 @@
 
 <h6 align="center">Hi+There!👋</h6>
 <h1 align="center">
-   I'm <span style="font-weight: bold;">Akibul Islam</span>
+   I'm <span style=""color:#58a6ff; font-family: Righteous; cursive; font-weight: bold;"">Akibul Islam</span>
 </h1>
 
 <h6 align="center">A passionate</h6>
