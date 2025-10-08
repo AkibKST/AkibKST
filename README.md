@@ -54,7 +54,7 @@
 <div align="center">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akibkst&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="akibkst's Top Languages" />
   <img src="https://github-readme-stats.vercel.app/api?username=akibkst&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="akibkst's Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akibkst&theme=radical&hide_border=true" alt="kazirauf's Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akibkst&theme=radical&hide_border=true" alt="akibkst's Streak" />
   
 </div>
 
