@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://ibb.co.com/zVrYW6ww" alt="akibkstBanner" width="100%"/>
+  <img width="2000" height="600" alt="Brown and Grey Minimalist Designer LinkedIn Article Cover Image" src="https://gist.github.com/user-attachments/assets/fa2605e6-606d-4223-a181-9b4f960e29e6" />
 </p>
  
 <h3 align="center">Hi 👋 I'm </h3>
