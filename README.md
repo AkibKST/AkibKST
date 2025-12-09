@@ -24,6 +24,23 @@
 ⚡ Fun fact ** Playing Badminton & Fixing BUGs **
 
  </div>
+
+<div align="center">
+  ## ⚡ Skills & Expertise
+
+### 🧩 System Architecture & Design
+Experienced in architecting **robust, scalable, and maintainable systems**, from microservices to monolithic structures. I focus on **clean abstractions, modularity,** and **high availability**, ensuring scalability and fault tolerance across environments.
+
+### ⚙️ Scalable Web Application Development
+I build full-stack applications optimized for **performance, scalability, and developer productivity**, leveraging caching, queueing systems, database optimization, and load balancing for high-traffic environments.
+
+### 🔗 REST API Development
+Expert in creating **secure and well-documented APIs** that power modern applications. I design APIs that are easy to use, properly secured, and built to handle real-world demands.
+
+### 🚀 Performance and Security
+Dedicated to **optimizing performance and strengthening security**. I focus on making applications faster while implementing best practices to keep them safe and protected.
+
+</div>
  
 <div align="center"> 
   <a href="mailto:akibkst22@gmail.com">
