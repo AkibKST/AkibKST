@@ -42,6 +42,8 @@ Expert in creating **secure and well-documented APIs** that power modern applica
 Dedicated to **optimizing performance and strengthening security**. I focus on making applications faster while implementing best practices to keep them safe and protected.
 
 </div>
+
+<br/>
  
 <div align="center"> 
   <a href="mailto:akibkst22@gmail.com">
