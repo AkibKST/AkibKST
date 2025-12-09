@@ -1,5 +1,5 @@
 
-  <img width="2000" height="600" alt="Brown and Grey Minimalist Designer LinkedIn Article Cover Image" src="https://gist.github.com/user-attachments/assets/fa2605e6-606d-4223-a181-9b4f960e29e6" />
+![My Profile Image](https://i.ibb.co.com/gZ3pb4CC/Brown-and-Grey-Minimalist-Designer-Linked-In-Article-Cover-Image.png)
 
 </br>
  
