@@ -1,9 +1,6 @@
-
-<div>
 <p align="center">
-  <img src="https://i.ibb.co.com/gZ3pb4CC/Brown-and-Grey-Minimalist-Designer-Linked-In-Article-Cover-Image.png" alt="Brown and Grey Minimalist Banner" width="100%"/>
+  <img src="https://ibb.co.com/zVrYW6ww" alt="akibkstBanner" width="100%"/>
 </p>
- </div>
  
 <h3 align="center">Hi 👋 I'm </h3>
 
