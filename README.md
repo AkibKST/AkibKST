@@ -1,6 +1,6 @@
 
 <div>
-<img src="[banner-url](https://imgur.com/a/bBKRyG0)" alt="Banner" width="800"/>
+<img src="https://i.ibb.co.com/gZ3pb4CC/Brown-and-Grey-Minimalist-Designer-Linked-In-Article-Cover-Image.png" alt="Brown and Grey Minimalist Designer Linked In Article Cover Image" border="0">
  </div>
  
 <h3 align="center">Hi 👋 I'm </h3>
