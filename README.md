@@ -101,6 +101,7 @@ Dedicated to **optimizing performance and strengthening security**. I focus on m
 
 ### 💻 Operating Systems
 ![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 </div>
 <br/>
 
