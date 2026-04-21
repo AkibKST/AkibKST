@@ -6,13 +6,13 @@
 <h3 align="center">Hi 👋 I'm </h3>
 
 <h1 align="center">
- <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=39&center=true&vCenter=true&width=600&height=70&duration=5000&lines=Akibul+Islam;" />
+ <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=39&center=true&vCenter=true&width=600&height=70&duration=3000&lines=Akibul+Islam;" />
 </h1>
 
 <h3 align="center">A passionate</h3>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=39&center=true&vCenter=true&width=600&height=70&duration=5000&lines=**Software+Developer**;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=39&center=true&vCenter=true&width=600&height=70&duration=3000&lines=**Software+Developer**;" />
 </h1>
 
 <br/>
@@ -131,7 +131,7 @@ Dedicated to **optimizing performance and strengthening security**. I focus on m
 
 <div align="center">
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=900&height=70&duration=4000&lines=Thanks+for+visit+👋;+Contributions+and+Projects;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=900&height=70&duration=3000&lines=Thanks+for+visit+👋;+Contributions+and+Projects;" />
 </h1>
 </div>
 
